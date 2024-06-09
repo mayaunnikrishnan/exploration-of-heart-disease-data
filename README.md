@@ -19,7 +19,7 @@ Heart disease is a leading cause of death in the United States, affecting people
   - [Export the Test Model to a Pickle File](#export-the-test-model-to-a-pickle-file)
 - [Streamlit Machine Learning Model App](#streamlit-machine-learning-model-app)
 
-     -[Heart Disease prediction app link](#https://exploration-of-heart-disease-data-76wdyy6nse6v9i3at78ixt.streamlit.app/)
+     -[Heart Disease prediction app link](#https://exploration-of-heart-disease-data-76wdyy6nse6v9i3at78ixt.streamlit.app)
 - [Conclusion](#conclusion)
 
   ## Reading Data Set
